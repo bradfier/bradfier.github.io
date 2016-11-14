@@ -8,7 +8,7 @@ title:               Richard Bradfield
 tagline:             'Technical stuff, mostly'
 description:         'Opinionated (and often wrong) technical stuff about Linux, Programming and Technology. Find me on GitHub <a href="https://github.com" target="_blank">@bradfier</a>.'
 url:                 https://bradfier.github.io
-baseurl:             'https://bradfier.github.io'
+baseurl:             ''
 paginate:            5
 
 # About/contact
