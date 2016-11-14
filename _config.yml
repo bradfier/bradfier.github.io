@@ -1,0 +1,24 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Richard Bradfield
+tagline:             'Technical stuff, mostly'
+description:         'Opinionated (and often wrong) technical stuff about Linux, Programming and Technology. Find me on GitHub <a href="https://github.com" target="_blank">@bradfier</a>.'
+url:                 http://bradfier.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Richard Bradfield
+  url:               https://github.com/bradfier
+  email:             bradfier@fstab.me
+
+# Custom vars
+# version:             1.0.0
+
+# Gems
+gems: [jekyll-paginate]
